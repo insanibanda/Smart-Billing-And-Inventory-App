@@ -1,4 +1,4 @@
-const API = 'http://localhost:8000';
+const API = 'https://linkdin-nle6.onrender.com';
 
 // ─── STATE ───────────────────────────────────────────────────────
 let allProducts = [];
